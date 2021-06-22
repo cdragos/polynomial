@@ -17,5 +17,7 @@
 
 3. Run unit tests
 
-    ```docker compose exec polynomial bash```
-    ```pytest```
+    ```
+    docker compose exec polynomial bash
+    pytest
+    ```
